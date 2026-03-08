@@ -62,7 +62,7 @@ The landing page contains the following sections:
 The project can be viewed live using **GitHub Pages**.
 
 Example link:
-https://ragabcodes.github.io/saas-landing-page 
+https://ragabcodes.github.io/saas-landing-page/ 
 
 
 
@@ -81,3 +81,8 @@ Electrical Engineering Student and aspiring Full-Stack Web Developer focused on 
 ## 📄 License
 
 This project is open-source and available for learning and portfolio purposes.
+
+
+## Preview
+
+![Preview](preview.png)
